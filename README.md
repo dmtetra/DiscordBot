@@ -1,8 +1,7 @@
 # DiscordBot
 
-## Subsection
+Purpose of DiscordBot
 
-**bold**
+Installation instructions
 
-- list 1
-- list 2
+Usage instructions
