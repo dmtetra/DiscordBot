@@ -14,4 +14,5 @@ The purpose of this is to create a discord bot, for basic usage in a discord ser
 - Program must be running in order have discord bot opporational
 - This program may not be used for any monetary or malicious reasons
 
-## License
+## **License**
+[**Licensing Agreement**](https://github.com/dmtetra/DiscordBot/blob/main/License "Licensing agreement")
